@@ -1,8 +1,8 @@
 ## 社区媒体统计
 
-- dotnet跨平台 - 广东
+- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 江湖评谈 - 丹麦
-- MyIO - 英国
+- MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海
 - Dotnet工具箱 - 上海
 - 后端Q - 福建
@@ -12,3 +12,4 @@
 - 一线码农聊技术 - 安徽
 - InCerry - 江苏
 - 精益码农 - 四川
+- 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
