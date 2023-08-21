@@ -13,3 +13,10 @@
 - InCerry - 江苏
 - 精益码农 - 四川
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- dotnet编程大全 - 上海
+- DotNet - 北京
+- dotNet工控上位机 - 天津
+- Dotnet工控 - 陕西
+- Dotnet技术圈 - 湖南
+- DotNET全栈开发 - 广东
+- CSharp编程大全 - 上海
