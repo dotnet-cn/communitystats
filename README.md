@@ -3,20 +3,22 @@
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 江湖评谈 - 丹麦
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- newbe技术专栏 - 上海
-- Dotnet工具箱 - 上海
 - 后端Q - 福建
 - Dotnet开发跳槽 - 北京
+- DotNet - 北京
 - Net分享 - 上海
 - Dotnet讲堂 - 上海
+- newbe技术专栏 - 上海
+- Dotnet工具箱 - 上海
+- dotnet编程大全 - 上海
+- CSharp编程大全 - 上海
 - 一线码农聊技术 - 安徽
+- 程序员阿亮 - 安徽
 - InCerry - 江苏
 - 精益码农 - 四川
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- dotnet编程大全 - 上海
-- DotNet - 北京
 - dotNet工控上位机 - 天津
 - Dotnet工控 - 陕西
 - Dotnet技术圈 - 湖南
 - DotNET全栈开发 - 广东
-- CSharp编程大全 - 上海
+
