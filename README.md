@@ -27,3 +27,5 @@
 ### 网站
 - Dotnet9 - https://dotnet9.com/
 - .NET Core Community - https://www.dotnetcore.xyz/
+- dotNet China - https://www.chinadot.net/
+- 
