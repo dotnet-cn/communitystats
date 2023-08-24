@@ -25,6 +25,7 @@
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
 - Dotnet9 - 四川
+- 编程乐趣 - 杭州
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
