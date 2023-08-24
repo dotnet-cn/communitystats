@@ -5,6 +5,7 @@
 - 江湖评谈 - 丹麦
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 后端Q - 福建
+- 后端修行之路 - 福建
 - Dotnet开发跳槽 - 北京
 - DotNet - 北京
 - Net分享 - 上海
@@ -23,6 +24,7 @@
 - Dotnet技术圈 - 湖南
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
+- Dotnet9 - 四川
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
