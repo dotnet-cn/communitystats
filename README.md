@@ -14,7 +14,7 @@
 - Dotnet工具箱 - 上海
 - dotnet编程大全 - 上海
 - CSharp编程大全 - 上海
-- 一线码农聊技术 - 安徽
+- 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 - 程序员阿亮 - 安徽
 - InCerry - 江苏
 - 精益码农 - 四川
