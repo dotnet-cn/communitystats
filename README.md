@@ -1,7 +1,7 @@
 ## 社区媒体统计
 
 ### 微信公众号
-- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 江湖评谈 - 丹麦
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 后端Q - 福建
@@ -15,7 +15,6 @@
 - dotnet编程大全 - 上海
 - CSharp编程大全 - 上海
 - 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
-- 程序员阿亮 - 安徽
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 精益码农 - 四川
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
@@ -26,6 +25,7 @@
 - 面向云技术架构 - 广东
 - Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 编程乐趣 - 杭州
+- 程序员阿亮 - 安徽
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
