@@ -24,7 +24,7 @@
 - Dotnet技术圈 - 湖南
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
-- Dotnet9 - 四川
+- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 编程乐趣 - 杭州
 
 ### 网站
