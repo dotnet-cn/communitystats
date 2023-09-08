@@ -10,6 +10,7 @@
 - DotNet - 北京
 - Net分享 - 上海
 - Dotnet讲堂 - 上海
+- Dotnet骚操作 - 湖南
 - newbe技术专栏 - 上海
 - Dotnet工具箱 - 上海
 - dotnet编程大全 - 上海
@@ -26,6 +27,7 @@
 - Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 编程乐趣 - 杭州
 - 程序员阿亮 - 安徽
+- EdisonTalk - 成都 
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
