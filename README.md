@@ -16,7 +16,7 @@
 - Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 精益码农 - 四川
 - dotNet工控上位机 - 天津
-- Dotnet工控 - 陕西
+- Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - Dotnet技术圈 - 湖南
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
