@@ -36,6 +36,7 @@
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 培训机构
 - 码农读书 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
