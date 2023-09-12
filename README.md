@@ -12,7 +12,7 @@
 - Dotnet工具箱 - 上海
 - dotnet编程大全 - 上海
 - CSharp编程大全 - 上海
-- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 精益码农 - 四川
 - dotNet工控上位机 - 天津
 - Dotnet工控 - 陕西
@@ -29,7 +29,7 @@
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 培训机构
 - 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
