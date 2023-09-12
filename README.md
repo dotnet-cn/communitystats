@@ -24,6 +24,7 @@
 - EdisonTalk - 成都
 - CSharp精选营 - 广东
 
+
 #### MVP
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
@@ -32,6 +33,7 @@
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 培训机构
+- 码农读书 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 - 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 - Dotnet天天学 - 湖北 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 
