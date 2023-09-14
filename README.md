@@ -15,7 +15,6 @@
 - CSharp编程大全 - 上海
 - Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 精益码农 - 四川
-- dotNet工控上位机 - 天津
 - Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
@@ -42,10 +41,11 @@
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 培训机构
-- 码农读书 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
-- 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
-- Dotnet天天学 - 湖北 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
-- .NET数字智能化基地 - 浙江 ![MVP](https://img.shields.io/badge/卖咨询-1d4d05.svg)
+- 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+- Dotnet天天学 - 湖北 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
+- dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
