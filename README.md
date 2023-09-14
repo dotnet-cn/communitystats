@@ -1,4 +1,4 @@
-![image](https://github.com/dotnet-cn/communitystats/assets/772561/764b0b5a-8658-4a65-a203-8e05f0b50433)## 社区媒体统计
+## 社区媒体统计
 
 ### 微信公众号
 - 追逐时光者 - 香港
