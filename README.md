@@ -1,4 +1,4 @@
-## 社区媒体统计
+![image](https://github.com/dotnet-cn/communitystats/assets/772561/764b0b5a-8658-4a65-a203-8e05f0b50433)## 社区媒体统计
 
 ### 微信公众号
 - 追逐时光者 - 香港
@@ -18,7 +18,7 @@
 - Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
-- 编程乐趣 - 杭州
+
 - 程序员阿亮 - 安徽
 - EdisonTalk - 成都
 - CSharp精选营 - 广东
@@ -39,6 +39,7 @@
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- 编程乐趣 - 杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 
 #### 培训机构
 - 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
