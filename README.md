@@ -31,7 +31,7 @@
 - Dotnet技术圈 - 湖南
 
 #### MVP的媒体
-- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
