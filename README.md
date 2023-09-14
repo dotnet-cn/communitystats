@@ -24,6 +24,8 @@
 - EdisonTalk - 成都
 - CSharp精选营 - 广东
 - token的技术分享 - 广东
+- 老码识途 - 广东
+- Andy阿辉 - 天津
 
 #### 营销/转发号 (区别于内容原创号)
 - Dotnet NB - 广东
@@ -37,12 +39,13 @@
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 培训机构
 - 码农读书 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 - 一线码农聊技术 - 安徽 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
 - Dotnet天天学 - 湖北 ![MVP](https://img.shields.io/badge/卖课-1d4d05.svg)
-
+- .NET数字智能化基地 - 浙江 ![MVP](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
