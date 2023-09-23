@@ -28,7 +28,7 @@
 
 #### 营销/转发号 (区别于内容原创号)
 - Dotnet NB - 广东
-- Dotnet技术圈 - 湖南
+- Dotnet技术圈 - 湖南长沙
 
 #### MVP的媒体
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
