@@ -11,11 +11,13 @@
 - 后端修行之路 - 福建
 - 追逐时光者 - 香港
 - Andy阿辉 - 天津
+- dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
-- 程序员阿亮 - 安徽
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- 编程乐趣 - 杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+- 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
+- Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 
 #### 上海
 - Net分享 - 上海
@@ -26,6 +28,11 @@
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+
+#### 安徽
+- 程序员阿亮 - 安徽
+- 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 
 #### 北京
 - Dotnet开发跳槽 - 北京
@@ -53,13 +60,6 @@
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 江湖评谈 - 丹麦
-
-#### 培训机构
-- 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-- Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
-- dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
