@@ -14,21 +14,24 @@
 - Andy阿辉 - 天津
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- WPF践行者 - 陕西西安 
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
-- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 
 #### 上海
 - Net分享 - 上海
 - Dotnet讲堂 - 上海
-- Dotnet工具箱 - 上海
 - dotnet编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - CSharp编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+
+#### 浙江
+- Dotnet工具箱 - 浙江
+- 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 
 #### 安徽
 - 程序员阿亮 - 安徽
