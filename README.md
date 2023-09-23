@@ -39,8 +39,8 @@
 - 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 
 #### 北京
-- Dotnet开发跳槽 - 北京
-- DotNet - 北京
+- Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- DotNet - 北京 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 
 #### 广东
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
