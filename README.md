@@ -59,7 +59,7 @@
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 #### 湖南
-- Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
+- Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 国外
