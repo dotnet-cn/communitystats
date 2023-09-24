@@ -4,7 +4,8 @@
 - 朝夕软文：发布朝夕有偿投放的广告，由于文章内容和标题通常没有直接关系，所以叫软文。
 - MVP：作者获得了微软最有价值专家
 - 卖课、卖咨询：存在盈利模式、或培训机构运营的公众号
-- 自营微信群：让粉丝加入微信群，运营私域流量
+- 自营微信群：让粉丝加入微信群，运营私域流量，限制：每个群只能500人，超过人数只能新建群。超过200人无法通过二维码加入，必须由群主拉入群
+- 自营QQ群：让粉丝加入QQ群，QQ群最多可以2000-3000人，入群二维码不会过期，支持群禁言，群管理能力强于微信群。
 
 ## 社区媒体统计
 
@@ -16,7 +17,7 @@
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - WPF践行者 - 陕西西安 
-- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
