@@ -46,7 +46,7 @@
 #### 广东
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 - CSharp精选营 - 广东
-- token的技术分享 - 广东 (主要宣传Blazor和MASA技术)
+- token的技术分享 - 广东 (主要宣传Blazor和MASA)
 - 老码识途 - 广东
 - DotNET全栈开发 - 广东
 - 面向云技术架构 - 广东
