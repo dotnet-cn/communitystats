@@ -13,7 +13,7 @@
 - 追逐时光者 - 香港
 - Andy阿辉 - 天津
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
-- Dotnet工控 - 陕西 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet工控 - 陕西 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - WPF践行者 - 陕西西安 
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
@@ -21,7 +21,7 @@
 
 #### 上海
 - Net分享 - 上海
-- Dotnet讲堂 - 上海
+- Dotnet讲堂 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - dotnet编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - CSharp编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
@@ -52,7 +52,7 @@
 - Dotnet NB - 广东 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 
 #### 四川
-- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 精益码农 - 成都
 - EdisonTalk - 成都
 
