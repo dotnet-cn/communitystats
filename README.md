@@ -64,7 +64,7 @@
 
 #### 国外
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) 
+- MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 ### 网站
