@@ -22,12 +22,12 @@
 
 #### 上海
 - Net分享 - 上海
-- Dotnet讲堂 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet讲堂 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - dotnet编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - CSharp编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 #### 浙江
 - Dotnet工具箱 - 浙江
