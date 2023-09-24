@@ -45,7 +45,7 @@
 
 #### 广东
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
-- CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff7063.svg)
+- CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - token的技术分享 - 广东 (主要宣传Blazor和MASA)
 - 老码识途 - 广东
 - DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
@@ -54,7 +54,7 @@
 #### 四川
 - Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 精益码农 - 成都
-- EdisonTalk - 成都
+- EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 #### 湖南
 - Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
@@ -62,8 +62,8 @@
 
 #### 国外
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
-- 江湖评谈 - 丹麦
+- MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) 
+- 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 ### 网站
 - Dotnet9 - https://dotnet9.com/
