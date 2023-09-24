@@ -60,7 +60,7 @@
 
 #### 湖南
 - Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
-- Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 #### 国外
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
