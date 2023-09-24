@@ -54,7 +54,7 @@
 - Dotnet NB - 广东 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 
 #### 四川
-- Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 精益码农 - 成都 
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
