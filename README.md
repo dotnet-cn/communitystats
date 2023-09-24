@@ -47,7 +47,7 @@
 #### 广东
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 - CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- token的技术分享 - 广东 (主要宣传Blazor和MASA)
+- token的技术分享 - 广东 (主要宣传Blazor和MASA)  ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 老码识途 - 广东
 - DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - Dotnet NB - 广东 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
