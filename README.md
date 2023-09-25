@@ -31,7 +31,7 @@
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 #### 浙江
-- Dotnet工具箱 - 浙江
+- Dotnet工具箱 - 浙江 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 - .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 
