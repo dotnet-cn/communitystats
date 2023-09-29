@@ -20,6 +20,7 @@
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 半栈程序员 - 河南 
 
 #### 上海
 - Net分享 - 上海
