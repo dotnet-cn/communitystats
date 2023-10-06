@@ -74,7 +74,7 @@
 - Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - .NET Core Community - https://www.dotnetcore.xyz/
 - dotNet China - https://www.chinadot.net/
-- Easy Dotnet - https://easy-dotnet.com/
+- Easy Dotnet - https://easy-dotnet.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 ### bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-220k-blue)
@@ -86,4 +86,5 @@
 - Ant编程 ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) ![粉丝](https://img.shields.io/badge/粉丝-16k-blue)
 - Dotnet学霸 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
 - 全栈ACE  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-15k-blue)
+- 西瓜编程技术指南 ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
 - 
