@@ -16,8 +16,6 @@
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - WPF践行者 - 陕西西安 
-- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
-- 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 半栈程序员 - 河南 ![软文](https://img.shields.io/badge/软谋软文-FFE751.svg)
 
@@ -42,6 +40,10 @@
 - 老码识途 - 广东
 - DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - Dotnet NB - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+
+#### 江苏 Jiangsu
+- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
+- 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 浙江 Zhejiang
 - Dotnet工具箱 - 浙江 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
