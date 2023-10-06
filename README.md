@@ -7,12 +7,11 @@
 - 自营微信群：让粉丝加入微信群，运营私域流量，限制：每个群只能500人，超过人数只能新建群。超过200人无法通过二维码加入，必须由群主拉入群
 - 自营QQ群：让粉丝加入QQ群，QQ群最多可以2000-3000人，入群二维码不会过期，支持群禁言，群管理能力强于微信群。
 
-## 社区媒体统计
+## 社区媒体统计 Community Statistics
 
-### 微信公众号
+### 微信公众号 WeChat Official Account
 - 后端Q - 福建 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 后端修行之路 - 福建 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- 追逐时光者 - 香港
 - Andy阿辉 - 天津
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
@@ -22,7 +21,7 @@
 - Dotnet天天学 - 湖北武汉 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 半栈程序员 - 河南 ![软文](https://img.shields.io/badge/软谋软文-FFE751.svg)
 
-#### 上海
+#### 上海 Shanghai
 - Net分享 - 上海
 - Dotnet讲堂 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - dotnet编程大全 - 上海 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
@@ -31,22 +30,12 @@
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
-#### 浙江
-- Dotnet工具箱 - 浙江 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
-- 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
-- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
-
-#### 安徽
-- 程序员阿亮 - 安徽 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
-
-#### 北京
+#### 北京 Beijing
 - Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - DotNet - 北京 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 - DotNet致知 - 北京
 
-#### 广东
+#### 广东 Guangdong
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![粉丝](https://img.shields.io/badge/粉丝-70k-blue)
 - CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - token的技术分享 - 广东 (主要宣传Blazor和MASA)  ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
@@ -54,27 +43,38 @@
 - DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - Dotnet NB - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
-#### 四川
+#### 浙江 Zhejiang
+- Dotnet工具箱 - 浙江 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
+- 编程乐趣 - 浙江杭州 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+- .NET数字智能化基地 - 浙江 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
+
+#### 安徽 Anhui
+- 程序员阿亮 - 安徽 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+
+#### 四川 Sichuan
 - Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 精益码农 - 成都 
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
-#### 湖南
+#### 湖南 Hunan
 - Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
-#### 国外
+#### 国外/特区 Outside China/Special District
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 追逐时光者 - 香港
 
-### 网站
+### 网站 Websites
 - Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - .NET Core Community - https://www.dotnetcore.xyz/
 - dotNet China - https://www.chinadot.net/
 - Easy Dotnet - https://easy-dotnet.com/
 
-### bilibili
+### bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-220k-blue)
 - 
 - 
