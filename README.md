@@ -93,3 +93,4 @@
 - MASA技术团队 ![粉丝](https://img.shields.io/badge/粉丝-2k-blue)
 - ArgoZhang ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-3.5k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 鬼谷子 (MASA前CTO) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-1k-blue) 
+- 一线码农聊技术 ![粉丝](https://img.shields.io/badge/粉丝-11k-blue) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
