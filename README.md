@@ -69,7 +69,7 @@
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 ### 网站
-- Dotnet9 - https://dotnet9.com/
+- Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - .NET Core Community - https://www.dotnetcore.xyz/
 - dotNet China - https://www.chinadot.net/
 - Easy Dotnet - https://easy-dotnet.com/
