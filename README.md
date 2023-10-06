@@ -89,3 +89,6 @@
 - 西瓜编程技术指南 ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
 - 微软系列技术教程 ![粉丝](https://img.shields.io/badge/粉丝-32k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 超超TimChen44 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue)
+- 精致的烧鸡 ![粉丝](https://img.shields.io/badge/粉丝-2k-blue)
+- MASA技术团队 ![粉丝](https://img.shields.io/badge/粉丝-2k-blue)
+- ArgoZhang ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-3.5k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
