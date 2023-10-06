@@ -39,7 +39,7 @@
 #### 安徽
 - 程序员阿亮 - 安徽 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 
 #### 北京
 - Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
