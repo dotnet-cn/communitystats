@@ -78,5 +78,5 @@
 
 ### bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-220k-blue)
-- 
+- Dotnet知识库（朝夕教育） ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) 
 - 
