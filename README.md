@@ -40,6 +40,7 @@
 - 老码识途 - 广东
 - DotNET全栈开发 - 广东 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
 - Dotnet NB - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 微服务知多少 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 #### 江苏 Jiangsu
 - InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
