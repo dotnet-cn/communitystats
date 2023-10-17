@@ -79,6 +79,9 @@
 - .NET Core Community - https://www.dotnetcore.xyz/
 - dotNet China - https://www.chinadot.net/
 - Easy Dotnet - https://easy-dotnet.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
+- 52Abp - https://www.52abp.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg)
+- MASA Community - https://www.masastack.com/
+- Thoughtworks Community - https://www.thoughtworks.com/zh-cn/careers/program/community
 
 ### bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-220k-blue)
