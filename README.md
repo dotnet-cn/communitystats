@@ -11,7 +11,7 @@
 
 ### 微信公众号 WeChat Official Account
 - 后端Q - 福建 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- 后端修行之路 - 福建 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 程序员编程日记 - 福建 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - Andy阿辉 - 天津
 - dotNet工控上位机 - 天津 ![卖课](https://img.shields.io/badge/卖咨询-1d4d05.svg)
 - Dotnet工控 - 陕西 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg)
