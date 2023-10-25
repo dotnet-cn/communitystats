@@ -33,6 +33,7 @@
 - Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - DotNet - 北京 ![营销号](https://img.shields.io/badge/营销号-d69eff.svg)
 - DotNet致知 - 北京
+- 桑榆肖物 - 北京
 
 #### 广东 Guangdong
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![粉丝](https://img.shields.io/badge/粉丝-73k-blue)
@@ -63,6 +64,7 @@
 - Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 精益码农 - 成都 
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 蓝创精英团队 - 四川 
 
 #### 湖南 Hunan
 - Dotnet技术圈 - 湖南长沙 (长沙.NET技术社区) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
