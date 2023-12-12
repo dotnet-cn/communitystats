@@ -93,7 +93,7 @@
 - Dotnet知识库 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
 - 朝夕教育  ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-53k-blue)
 - 奕鼎通教育 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![粉丝](https://img.shields.io/badge/粉丝-12k-blue)
-- 元讯-趣编程教育 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![粉丝](https://img.shields.io/badge/粉丝-1k-blue) 
+- 元讯-趣编程教育 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![粉丝](https://img.shields.io/badge/粉丝-1.2k-blue) 
 - DotNET大王 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-18k-blue)
 - Ant编程 ![粉丝](https://img.shields.io/badge/粉丝-16k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - Dotnet学霸 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
