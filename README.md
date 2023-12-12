@@ -73,7 +73,7 @@
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 #### 国外/特区 Outside China/Special District
-- 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue)
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 追逐时光者 - 香港
