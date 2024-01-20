@@ -88,7 +88,7 @@
 - MASA Community - https://www.masastack.com/
 - Thoughtworks Community - https://www.thoughtworks.com/zh-cn/careers/program/community ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
-### bilibili (China Youtube)
+### Bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-226k-blue)
 - Dotnet知识库 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
 - 朝夕教育  ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-53k-blue)
@@ -106,3 +106,12 @@
 - ArgoZhang ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-3.8k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 鬼谷子 (MASA前CTO) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-1k-blue) 
 - 一线码农聊技术 ![粉丝](https://img.shields.io/badge/粉丝-11k-blue) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
+
+### Zhihu (China Quora)
+- [叶影](https://www.zhihu.com/people/leafrock)
+- [找事的仓鼠](https://www.zhihu.com/people/zhao-shi-de-hu-li)
+- [苏州de酱醋茶](https://www.zhihu.com/people/helloworld-13-26)
+- [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
+- [InCerry](https://www.zhihu.com/people/li-shi-50-29)
+- [长春六院精神科](https://www.zhihu.com/people/ke-tao-32)
+- 
