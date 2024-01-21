@@ -110,6 +110,7 @@
 ### Zhihu (China Quora)
 - [Ivony](https://www.zhihu.com/people/Ivony)
 - [廖鑫炜](https://www.zhihu.com/people/liao-xin-wei)
+- [why520crazy](https://www.zhihu.com/people/why520crazy)
 - [叶影](https://www.zhihu.com/people/leafrock)
 - [找事的仓鼠](https://www.zhihu.com/people/zhao-shi-de-hu-li)
 - [苏州de酱醋茶](https://www.zhihu.com/people/helloworld-13-26)
