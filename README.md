@@ -109,7 +109,7 @@
 
 ### Zhihu (China Quora)
 - [Ivony](https://www.zhihu.com/people/Ivony)
-- [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
+- [廖鑫炜](https://www.zhihu.com/people/liao-xin-wei)
 - [叶影](https://www.zhihu.com/people/leafrock)
 - [找事的仓鼠](https://www.zhihu.com/people/zhao-shi-de-hu-li)
 - [苏州de酱醋茶](https://www.zhihu.com/people/helloworld-13-26)
@@ -127,3 +127,4 @@
 - [追逐时光者](https://www.zhihu.com/people/ysgdaydayup)
 - [hez2010](https://www.zhihu.com/people/hez2010)
 - [dwing](https://www.zhihu.com/people/dwing4g)
+- [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
