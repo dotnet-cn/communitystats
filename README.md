@@ -36,7 +36,7 @@
 - 桑榆肖物 - 北京
 
 #### 广东 Guangdong
-- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![粉丝](https://img.shields.io/badge/粉丝-73k-blue)
+- dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) 
 - CSharp精选营 - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - token的技术分享 - 广东 (主要宣传Blazor和MASA)  ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 老码识途 - 广东
@@ -46,7 +46,7 @@
 - Dotnet Dancer - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 #### 江苏 Jiangsu
-- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
+- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) 
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - EventHorizonCLI - 江苏
 - Csharp小记 - 江苏 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
@@ -73,7 +73,7 @@
 - Dotnet骚操作 - 湖南 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 
 #### 国外/特区 Outside China/Special District
-- 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue)
+- 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) 
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 追逐时光者 - 香港
