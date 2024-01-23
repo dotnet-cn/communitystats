@@ -80,6 +80,7 @@
 
 ### 网站 Websites
 - Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- 果糖网（SqlSugar官网） - https://www.donet5.com/
 - NewLife 新生命团队 - https://newlifex.com/
 - .NET Core Community - https://www.dotnetcore.xyz/
 - dotNet China - https://www.chinadot.net/
