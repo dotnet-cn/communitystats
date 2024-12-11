@@ -28,6 +28,7 @@
 - amazingdotnet - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - JusterZhu - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - newbe技术专栏 - 上海 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
+- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) 
 
 #### 北京 Beijing
 - Dotnet开发跳槽 - 北京 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
@@ -46,7 +47,6 @@
 - Dotnet Dancer - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 
 #### 江苏 Jiangsu
-- InCerry - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg) 
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - EventHorizonCLI - 江苏
 - Csharp小记 - 江苏 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
