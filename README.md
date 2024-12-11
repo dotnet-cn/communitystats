@@ -63,7 +63,7 @@
 - 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 
 #### 四川 Sichuan
-- Dotnet9 - 四川 ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
+- Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 精益码农 - 成都 
 - EdisonTalk - 成都 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 蓝创精英团队 - 四川 
@@ -76,7 +76,7 @@
 - 桂迹 - 日本 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) 
 - MyIO - 英国 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)  ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 江湖评谈 - 丹麦 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- 追逐时光者 - 香港
+- 追逐时光者 - 香港 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 
 ### 网站 Websites
 - Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
@@ -115,10 +115,10 @@
 - [why520crazy](https://www.zhihu.com/people/why520crazy)
 - [叶影](https://www.zhihu.com/people/leafrock)
 - [找事的仓鼠](https://www.zhihu.com/people/zhao-shi-de-hu-li)
-- [苏州de酱醋茶](https://www.zhihu.com/people/helloworld-13-26)
-- [InCerry](https://www.zhihu.com/people/li-shi-50-29)
+- [苏州de酱醋茶](https://www.zhihu.com/people/helloworld-13-26) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- [InCerry](https://www.zhihu.com/people/li-shi-50-29) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - [长春六院精神科](https://www.zhihu.com/people/ke-tao-32)
-- [Eleven](https://www.zhihu.com/people/ElevenOnNet/)
+- [Eleven](https://www.zhihu.com/people/ElevenOnNet/) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - [阿妮亚学SqlSugar](https://www.zhihu.com/people/57-52-97-95)
 - [dotnet编程大全](https://www.zhihu.com/people/zls365-77)
 - [杰克伦敦尘](https://www.zhihu.com/people/jacklondon-67-84)
