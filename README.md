@@ -101,7 +101,7 @@
 - Dotnet学霸 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
 - 全栈ACE  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-16k-blue)
 - 西瓜编程技术指南 ![粉丝](https://img.shields.io/badge/粉丝-3k-blue)
-- 微软系列技术教程 ![粉丝](https://img.shields.io/badge/粉丝-32k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
+- 微软系列技术教程 ![粉丝](https://img.shields.io/badge/粉丝-32k-blue) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 超超TimChen44 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue)
 - 精致的烧鸡 ![粉丝](https://img.shields.io/badge/粉丝-2k-blue)
 - MASA技术团队 ![粉丝](https://img.shields.io/badge/粉丝-2k-blue)
