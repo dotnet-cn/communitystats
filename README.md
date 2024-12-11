@@ -92,7 +92,7 @@
 ### Bilibili (China Youtube)
 - 杨中科  ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-234k-blue)
 - FireUG技术社区 ![粉丝](https://img.shields.io/badge/粉丝-29k-blue)
-- Dotnet知识库 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-9k-blue)
+- Dotnet知识库 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-15k-blue)
 - 朝夕教育  ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg) ![粉丝](https://img.shields.io/badge/粉丝-60k-blue)
 - 奕鼎通教育 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![粉丝](https://img.shields.io/badge/粉丝-15k-blue)
 - 元讯-趣编程教育 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![粉丝](https://img.shields.io/badge/粉丝-1.2k-blue) 
