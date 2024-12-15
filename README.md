@@ -135,7 +135,7 @@
 - [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
 
 ### Zhihu Column 知乎专栏
-- [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [Web版](https://www.fungkao.net/searchByTag/.NET%20Weekly)
+- [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [![Web](https://img.shields.io/badge/Web-2d6cbe.svg)](https://www.fungkao.net/searchByTag/.NET%20Weekly)
 - [技术前沿周刊](https://www.zhihu.com/column/c_1809214011323060225)
 - [.NET中文社区](https://zhuanlan.zhihu.com/column/c_1322728689138712576)
 - [微软MVP项目](https://zhuanlan.zhihu.com/column/c_1704128678286548992)
