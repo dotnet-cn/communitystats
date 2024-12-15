@@ -110,7 +110,8 @@
 - ArgoZhang ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-5k-blue) ![自营QQ群](https://img.shields.io/badge/自营QQ群-ff0c85.svg)
 - 鬼谷子 (MASA前CTO) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-1k-blue) 
 - 一线码农聊技术 ![粉丝](https://img.shields.io/badge/粉丝-14k-blue) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
-
+- JusterZhu ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- 
 ### Zhihu 知乎 (China Quora)
 - [Ivony](https://www.zhihu.com/people/Ivony)
 - [廖鑫炜](https://www.zhihu.com/people/liao-xin-wei)
