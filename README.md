@@ -61,6 +61,7 @@
 - 程序员阿亮 - 安徽 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 码农读书 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 - 一线码农聊技术 - 安徽 ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
+- dotnet安全矩阵 - 安徽 ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg)
 
 #### 四川 Sichuan
 - Dotnet9 - 四川 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
@@ -109,7 +110,7 @@
 - 鬼谷子 (MASA前CTO) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![粉丝](https://img.shields.io/badge/粉丝-1k-blue) 
 - 一线码农聊技术 ![粉丝](https://img.shields.io/badge/粉丝-14k-blue) ![卖课](https://img.shields.io/badge/卖课-1d4d05.svg)
 
-### Zhihu (China Quora)
+### Zhihu 知乎 (China Quora)
 - [Ivony](https://www.zhihu.com/people/Ivony)
 - [廖鑫炜](https://www.zhihu.com/people/liao-xin-wei)
 - [why520crazy](https://www.zhihu.com/people/why520crazy)
@@ -132,3 +133,10 @@
 - [dwing](https://www.zhihu.com/people/dwing4g)
 - [霍姚远](https://www.zhihu.com/people/huo-yao-yuan)
 - [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
+
+### Zhihu Column 知乎专栏
+- [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [Web版](https://www.fungkao.net/searchByTag/.NET%20Weekly)
+- [技术前沿周刊](https://www.zhihu.com/column/c_1809214011323060225)
+- [.NET中文社区](https://zhuanlan.zhihu.com/column/c_1322728689138712576)
+- [微软MVP项目](https://zhuanlan.zhihu.com/column/c_1704128678286548992)
+- [.NET周刊](https://www.zhihu.com/column/c_1730272594044145664)
