@@ -131,9 +131,11 @@
 - [追逐时光者](https://www.zhihu.com/people/ysgdaydayup) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - [hez2010](https://www.zhihu.com/people/hez2010)
 - [dwing](https://www.zhihu.com/people/dwing4g)
-- [霍姚远](https://www.zhihu.com/people/huo-yao-yuan)
+- [霍姚远](https://www.zhihu.com/people/huo-yao-yuan) ![微软FTE](https://img.shields.io/badge/FTE-2d6cbe.svg)
 - [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng)
-
+- [一线码农](https://www.zhihu.com/people/ixchuang) 
+- [李会军](https://www.zhihu.com/people/terrylee) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+  
 ### Zhihu Column 知乎专栏
 - [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [![Web](https://img.shields.io/badge/Web-2d6cbe.svg)](https://www.fungkao.net/searchByTag/.NET%20Weekly)
 - [技术前沿周刊](https://www.zhihu.com/column/c_1809214011323060225)
