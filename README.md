@@ -137,6 +137,7 @@
 - [dotnet大王](https://www.zhihu.com/people/da-ge-ge-you-dian-nao-ke-teng) ![朝夕](https://img.shields.io/badge/朝夕-FFE751.svg)
 - [一线码农](https://www.zhihu.com/people/ixchuang) 
 - [李会军](https://www.zhihu.com/people/terrylee) ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
+- [肖进](https://www.zhihu.com/people/showjim)
   
 ### Zhihu Column 知乎专栏
 - [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [![Web](https://img.shields.io/badge/Web-2d6cbe.svg)](https://www.fungkao.net/searchByTag/.NET%20Weekly)
