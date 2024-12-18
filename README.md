@@ -148,3 +148,4 @@
 - [微软MVP项目](https://zhuanlan.zhihu.com/column/c_1704128678286548992)
 - [.NET周刊](https://www.zhihu.com/column/c_1730272594044145664)
 - [.NET和F#周报](https://www.zhihu.com/column/fsharp)
+- [C#教程](https://www.zhihu.com/column/c_1669189893052944384)
