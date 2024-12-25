@@ -141,7 +141,7 @@
 - [ggffss](https://www.zhihu.com/people/ggff-ss)
 - [VR老鲸](https://www.zhihu.com/people/haovr123.com)
 - [有态度的马甲](https://www.zhihu.com/people/no1coder)
-  
+
 ### Zhihu Column 知乎专栏
 - [.NET环球月刊](https://zhuanlan.zhihu.com/column/c_1775053216763277312) [![Web](https://img.shields.io/badge/Web-2d6cbe.svg)](https://www.fungkao.net/searchByTag/.NET%20Weekly)
 - [技术前沿周刊](https://www.zhihu.com/column/c_1809214011323060225)
