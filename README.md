@@ -84,7 +84,7 @@
 
 #### 其他 Others
 - 技术老小子 - 天津
-- 上位机李工
+- 上位机李工 - 河南
 
 ### 网站 Websites
 - Dotnet9 - https://dotnet9.com/ ![个人站](https://img.shields.io/badge/个人站-2d6cbe.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
