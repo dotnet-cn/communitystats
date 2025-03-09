@@ -47,7 +47,7 @@
 - Dotnet NB - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
 - 微服务知多少 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet Dancer - 广东 ![自营微信群](https://img.shields.io/badge/自营微信群-ff1414.svg)
-- CSharp技术 - 广东 
+- NotOnlyCsharp - 广东 
 
 #### 江苏 Jiangsu
 - 大内老A - 江苏 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
