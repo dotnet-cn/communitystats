@@ -37,6 +37,7 @@
 - 桑榆肖物 - 北京
 - WPF开发者 - 北京 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg)
 - Dotnet技术匠  - 北京
+- cshelloword - 北京
 
 #### 广东 Guangdong
 - dotnet跨平台 - 广东 ![MVP](https://img.shields.io/badge/MVP-2d6cbe.svg) ![软文](https://img.shields.io/badge/朝夕软文-FFE751.svg) ![知识星球](https://img.shields.io/badge/知识星球-708aff.svg) ![营销号](https://img.shields.io/badge/营销号-d69eff.svg) 
